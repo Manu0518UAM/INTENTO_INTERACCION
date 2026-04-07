@@ -148,3 +148,7 @@ button:hover {
 .input-fecha.activo span {
   color: #111; /* negro */
 }
+
+.input-fecha {
+  box-sizing: border-box;
+}
